@@ -20,4 +20,8 @@ public class Card {
         return this.rank.getValue();
     }
 
+
+    public void add(Card card) {
+
+    }
 }
